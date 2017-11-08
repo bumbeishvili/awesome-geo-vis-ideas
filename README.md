@@ -1,4 +1,4 @@
-# awesome-geo-vis-ideas
+# Awesome Geo Visualization Ideas
 Visualization ideas, specific to Georgia
 
 
