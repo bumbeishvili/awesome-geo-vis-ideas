@@ -30,5 +30,5 @@ Based on this game   http://techslides.com/demos/d3/dragdrop-geo-game.html and u
    * Work experience in years
    * If he had worked with project manager and tester?
    * How much hours are you working per week?
-2. Make results accessible over web
-3. Create bubble chart with automatic filters , primary field will be count of respondents
+2. Make results accessible over web and load data with `tabletop js`
+3. Create bubble chart with dinamic filters and group, primary field will be count of respondents
